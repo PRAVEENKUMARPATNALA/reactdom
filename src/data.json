@@ -1,0 +1,88 @@
+{
+    "details":[
+        {
+            "card":{
+                "name":"Patnala Praveen Kumar",
+                "email":"praveen123@gmail.com",
+                "mobile":"9010102030",
+                "description":"Student"
+            },
+            "career":"I want to be a Developer",
+            "educationalqualification":[
+                {
+                    "instistue":"GMRIT college",
+                    "degree":"B.tech",
+                    "passoutyear":"2022",
+                    "percentage":"90%"
+                },
+                {
+                    "instistue":"sri chaitanya college",
+                    "degree":"Intermediate",
+                    "passoutyear":"2018",
+                    "percentage":"93%"
+                },
+                {
+                    "instistue":"VIVEKANANDA",
+                    "degree":"SSC",
+                    "passoutyear":"2016",
+                    "percentage":"85%"
+                }
+            ],
+            "technicalskills":[
+                {
+                    "title":"programming languages",
+                    "info":["c","java","python","kotlin"]
+                },
+                {
+                    "title":"Databases",
+                    "info":["oracle","sql","mongoDB"]
+                },
+                {
+                    "title":"Operating systems",
+                    "info":["windows","ubuntu"]
+                }]
+        },
+        {
+            "card":{
+                "name":"Dhoni MSD",
+                "email":"dhoni.praveen159@gmail.com",
+                "mobile":"9010106789",
+                "description":"Trainer"
+            },
+            "career":"I want to be a Trainer",
+            "educationalqualification":[
+                {
+                    "instistue":"gmrit college",
+                    "degree":"B.tech",
+                    "passoutyear":"2022",
+                    "percentage":"90%"
+                },
+                {
+                    "instistue":"sri chaitanya college",
+                    "degree":"Intermediate",
+                    "passoutyear":"2018",
+                    "percentage":"93%"
+                },
+                {
+                    "instistue":"VIVEKANANDA",
+                    "degree":"SSC",
+                    "passoutyear":"2016",
+                    "percentage":"85%"
+                }
+            ],
+            "technicalskills":[
+                {
+                    "title":"programming languages",
+                    "info":["c,java,python,kotlin"]
+                },
+                {
+                    "title":"Databases",
+                    "info":["oracle,sql,mongoDB"]
+                },
+                {
+                    "title":"Operating systems",
+                    "info":["windows,ubuntu"]
+                }]
+        }
+    ]
+}
