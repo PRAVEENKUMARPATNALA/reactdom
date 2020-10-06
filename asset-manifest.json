@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactdom/static/css/main.82a73193.chunk.css",
+    "main.js": "/reactdom/static/js/main.dcd98c00.chunk.js",
+    "main.js.map": "/reactdom/static/js/main.dcd98c00.chunk.js.map",
+    "runtime-main.js": "/reactdom/static/js/runtime-main.db9b8a54.js",
+    "runtime-main.js.map": "/reactdom/static/js/runtime-main.db9b8a54.js.map",
+    "static/js/2.1ee5bc40.chunk.js": "/reactdom/static/js/2.1ee5bc40.chunk.js",
+    "static/js/2.1ee5bc40.chunk.js.map": "/reactdom/static/js/2.1ee5bc40.chunk.js.map",
+    "index.html": "/reactdom/index.html",
+    "precache-manifest.79e6099e43f729e00608dce8efa7017b.js": "/reactdom/precache-manifest.79e6099e43f729e00608dce8efa7017b.js",
+    "service-worker.js": "/reactdom/service-worker.js",
+    "static/css/main.82a73193.chunk.css.map": "/reactdom/static/css/main.82a73193.chunk.css.map",
+    "static/js/2.1ee5bc40.chunk.js.LICENSE.txt": "/reactdom/static/js/2.1ee5bc40.chunk.js.LICENSE.txt",
+    "static/media/praveen.jpg": "/reactdom/static/media/praveen.28dbaa3d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db9b8a54.js",
+    "static/js/2.1ee5bc40.chunk.js",
+    "static/css/main.82a73193.chunk.css",
+    "static/js/main.dcd98c00.chunk.js"
+  ]
+}
